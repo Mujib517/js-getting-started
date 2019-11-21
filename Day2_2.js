@@ -32,3 +32,8 @@ var mobile = {
 //     console.log(key, mobile[key]);
 // }
 
+
+
+mobile.width = 100;
+
+console.log(mobile);
